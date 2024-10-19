@@ -5,7 +5,7 @@ Rock-Paper-Scissors is a classic hand game that is played between two (2) people
 <h3>Features</h3>
 <li><b>Single-player Mode: </b>Play against the computer.</li>
 <li><b>Randomized Opponent Choices: </b>The computer randomly selects its move.</li>
-<li><b>Responsive Design: </b>Works well both desktop and mobile devices.</li>
+<li><b>Responsive Design: </b>Works well on both desktop and mobile devices.</li>
 
 <h3>Technologies Used</h3>
 <li>HTML</li>
